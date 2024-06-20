@@ -151,6 +151,7 @@
 6. Problem Challenge 1 (easy)
 7. Problem Challenge 2 (medium)
 8. Problem Challenge 3 (medium)
+   https://leetcode.cn/problems/number-of-closed-islands/solutions/2312616/liang-chong-si-lu-xian-wai-hou-nei-chu-j-b1e4
 
 
 ### 14. Pattern: Two Heaps
