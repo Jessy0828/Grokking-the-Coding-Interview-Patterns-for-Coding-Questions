@@ -151,12 +151,12 @@
 6. Problem Challenge 1 (easy)
 7. Problem Challenge 2 (medium)
 8. Problem Challenge 3 (medium)
-   https://leetcode.cn/problems/number-of-closed-islands/solutions/2312616/liang-chong-si-lu-xian-wai-hou-nei-chu-j-b1e4
+9. [List of relevant questions, implemented by DFS & BFS](https://leetcode.cn/problems/number-of-closed-islands/solutions/2312616/liang-chong-si-lu-xian-wai-hou-nei-chu-j-b1e4)
 
 
 ### 14. Pattern: Two Heaps
 
-1. Introduction
+1. Introduction - [How to insert a number](https://leetcode.cn/problems/find-median-from-data-stream/solutions/2361972/295-shu-ju-liu-de-zhong-wei-shu-dui-qing-gmdo)
 2. Find the Median of a Number Stream (medium) [Leetcode](https://leetcode.com/problems/find-median-from-data-stream/)
 3. Sliding Window Median (hard) [Leetcode](https://leetcode.com/problems/sliding-window-median/)
 4. Maximize Capital (hard) [Leetcode](https://leetcode.com/problems/ipo/)
@@ -193,6 +193,7 @@
 14. *Koko Eating Bananas (medium) [Leetcode](https://leetcode.com/problems/koko-eating-bananas/)
 15. *Capacity To Ship Packages Within D Days (medium) [Leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 16. *Median of Two Sorted Arrays (hard) [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+17. Sliding Window Median (hard)
 
 
 ### 17. Pattern: Bitwise XOR
