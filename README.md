@@ -166,13 +166,15 @@
 
 ### 15. Pattern: Subsets
 
-1. Introduction [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/R87WmWYrELz)
-2. Subsets (easy) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/gx2OqlvEnWG)
-3. Subsets With Duplicates (easy) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/7npk3V3JQNr)
-4. Permutations (medium) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/B8R83jyN3KY)
-5. String Permutations by changing case (medium)
-6. Balanced Parentheses (hard)
-7. Unique Generalized Abbreviations (hard)
+1. [Introduction](https://leetcode.cn/problems/subsets-ii/solutions/968637/90-zi-ji-ii-python-die-dai-he-hui-su-by-b8no5) [Thinking process for backtracking](https://leetcode.cn/problems/subsets-ii/solutions/690952/hui-su-fa-mo-ban-tao-lu-jian-hua-xie-fa-y4evs)
+2. [How to use DFS to realise backtracking](https://leetcode.cn/problems/permutations/solutions/9914/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liweiw)
+3. Subsets (easy) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/gx2OqlvEnWG)
+4. Subsets With Duplicates (easy) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/7npk3V3JQNr)
+5. Permutations (medium) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/B8R83jyN3KY)
+   [If the answer needs to be in order, state must be recorded for used/unused elements](https://leetcode.cn/problems/permutations/solutions/9914/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liweiw)
+7. String Permutations by changing case (medium) [This could be easily solved with brute force](https://www.youtube.com/watch?v=_Ipng-tBpSw)
+8. Balanced Parentheses (hard)
+9. Unique Generalized Abbreviations (hard)
 
 
 ### [16. Pattern: Modified Binary Search](binary-search/BinarySearch.md)
