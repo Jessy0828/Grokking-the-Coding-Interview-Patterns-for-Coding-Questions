@@ -180,22 +180,23 @@
 ### [16. Pattern: Modified Binary Search](binary-search/BinarySearch.md)
 
 1. Introduction [Complete Pattern Theory and Solutions](binary-search/BinarySearch.md)  
-2. Order-agnostic Binary Search (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/order-agnostic-binary-search/)  
-3. Ceiling of a Number (medium) [Geeksforgeeks-Ceil](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) [Geeksforgeeks-Floor](https://www.geeksforgeeks.org/floor-in-a-sorted-array/)  
-4. Next Letter (medium) [Leetcode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)  
-5. Number Range (medium) [Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  
-6. Search in a Sorted Infinite Array (medium) [Leetcode](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)  
-7. Minimum Difference Element (medium): Find the floor & ceil take the difference, minimum would be the ans
-8. Bitonic Array Maximum (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/)
-9. Problem Challenge 1: Search Bitonic Array (medium) [Leetcode](https://leetcode.com/problems/find-in-mountain-array/)  
-10. Problem Challenge 2: Search in Rotated Array (medium) [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-11. Problem Challenge 3: Rotation Count (medium) [Geeksforgeeks](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/)
-12. *Search a 2D Matrix (medium) [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/)  
-13. *Minimum Number of Days to Make m Bouquets (medium) [Leetcode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
-14. *Koko Eating Bananas (medium) [Leetcode](https://leetcode.com/problems/koko-eating-bananas/)
-15. *Capacity To Ship Packages Within D Days (medium) [Leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
-16. *Median of Two Sorted Arrays (hard) [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-17. Sliding Window Median (hard)
+2. Order-agnostic Binary Search (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/order-agnostic-binary-search/)
+3. Find the peak index of mountain array: Leetcode 852 & Find in a mountain array: Leetcode 1095
+4. Ceiling of a Number (medium) [Geeksforgeeks-Ceil](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) [Geeksforgeeks-Floor](https://www.geeksforgeeks.org/floor-in-a-sorted-array/)  
+5. Next Letter (medium) [Leetcode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)  
+6. Number Range (medium) [Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  
+7. Search in a Sorted Infinite Array (medium) [Leetcode](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)  
+8. Minimum Difference Element (medium): Find the floor & ceil take the difference, minimum would be the ans
+9. Bitonic Array Maximum (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/)
+10. Problem Challenge 1: Search Bitonic Array (medium) [Leetcode](https://leetcode.com/problems/find-in-mountain-array/)  
+11. Problem Challenge 2: Search in Rotated Array (medium) [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+12. Problem Challenge 3: Rotation Count (medium) [Geeksforgeeks](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/)
+13. *Search a 2D Matrix (medium) [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/)  
+14. *Minimum Number of Days to Make m Bouquets (medium) [Leetcode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+15. *Koko Eating Bananas (medium) [Leetcode](https://leetcode.com/problems/koko-eating-bananas/)
+16. *Capacity To Ship Packages Within D Days (medium) [Leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+17. *Median of Two Sorted Arrays (hard) [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+18. Sliding Window Median (hard)
 
 
 ### 17. Pattern: Bitwise XOR
