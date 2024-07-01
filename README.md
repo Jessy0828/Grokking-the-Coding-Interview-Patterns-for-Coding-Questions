@@ -184,9 +184,9 @@
 3. Find the peak index of mountain array: Leetcode 852 & Find in a mountain array: Leetcode 1095
 4. Ceiling of a Number (medium) [Geeksforgeeks-Ceil](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) [Geeksforgeeks-Floor](https://www.geeksforgeeks.org/floor-in-a-sorted-array/)  
 5. Next Letter (medium) [Leetcode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)  
-6. Number Range (medium) [Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  
-7. Search in a Sorted Infinite Array (medium) [Leetcode](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)  
-8. Minimum Difference Element (medium): Find the floor & ceil take the difference, minimum would be the ans
+6. Number Range (medium) [Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  [Find the left boundry & right boundry](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/2362521/liang-ci-er-fen-fa-cha-zhao-zuo-you-bian-hwhz)
+7. Search in a Sorted Infinite Array (medium) Leetcode 702 [Geeksforgeeks](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)  
+8. Minimum Difference Element (medium): Find the floor & ceil take the difference, minimum would be the ans. Leetcode 2817
 9. Bitonic Array Maximum (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/)
 10. Problem Challenge 1: Search Bitonic Array (medium) [Leetcode](https://leetcode.com/problems/find-in-mountain-array/)  
 11. Problem Challenge 2: Search in Rotated Array (medium) [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
