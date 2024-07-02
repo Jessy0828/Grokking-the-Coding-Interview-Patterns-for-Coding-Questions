@@ -187,16 +187,14 @@
 6. Number Range (medium) [Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  [Find the left boundry & right boundry](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/2362521/liang-ci-er-fen-fa-cha-zhao-zuo-you-bian-hwhz)
 7. Search in a Sorted Infinite Array (medium) Leetcode 702 [Geeksforgeeks](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)  
 8. Minimum Difference Element (medium): Find the floor & ceil take the difference, minimum would be the ans. Leetcode 2817
-9. Bitonic Array Maximum (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/)
-10. Problem Challenge 1: Search Bitonic Array (medium) [Leetcode](https://leetcode.com/problems/find-in-mountain-array/)  
-11. Problem Challenge 2: Search in Rotated Array (medium) [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-12. Problem Challenge 3: Rotation Count (medium) [Geeksforgeeks](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/)
-13. *Search a 2D Matrix (medium) [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/)  
-14. *Minimum Number of Days to Make m Bouquets (medium) [Leetcode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
-15. *Koko Eating Bananas (medium) [Leetcode](https://leetcode.com/problems/koko-eating-bananas/)
-16. *Capacity To Ship Packages Within D Days (medium) [Leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
-17. *Median of Two Sorted Arrays (hard) [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-18. Sliding Window Median (hard)
+9. Bitonic Array Maximum: Leetcode 852 [Geeksforgeeks](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/)
+10. Search in Rotated Array (medium) [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/) [Solution](https://leetcode.cn/problems/search-in-rotated-sorted-array/solutions/220083/sou-suo-xuan-zhuan-pai-xu-shu-zu-by-leetcode-solut)
+11. *Search a 2D Matrix (medium) [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/)  
+12. *Minimum Number of Days to Make m Bouquets (medium) [Leetcode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+13. *Koko Eating Bananas (medium) [Leetcode](https://leetcode.com/problems/koko-eating-bananas/)
+14. *Capacity To Ship Packages Within D Days (medium) [Leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+15. *Median of Two Sorted Arrays (hard) [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+16. Sliding Window Median (hard)
 
 
 ### 17. Pattern: Bitwise XOR
