@@ -190,11 +190,15 @@
 9. Bitonic Array Maximum: Leetcode 852 [Geeksforgeeks](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/)
 10. Search in Rotated Array (medium) [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/) [Solution](https://leetcode.cn/problems/search-in-rotated-sorted-array/solutions/220083/sou-suo-xuan-zhuan-pai-xu-shu-zu-by-leetcode-solut)
 11. *Search a 2D Matrix (medium) [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/)  
-12. *Minimum Number of Days to Make m Bouquets (medium) [Leetcode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
-13. *Koko Eating Bananas (medium) [Leetcode](https://leetcode.com/problems/koko-eating-bananas/)
-14. *Capacity To Ship Packages Within D Days (medium) [Leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
-15. *Median of Two Sorted Arrays (hard) [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-16. Sliding Window Median (hard)
+12. *Minimum Number of Days to Make m Bouquets (medium) [Leetcode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) [Solution & Analysis](https://leetcode.cn/problems/minimum-number-of-days-to-make-m-bouquets/solutions/765539/chi-xiao-dou-python-wei-shi-yao-shi-er-f-24p7)
+13. *Capacity To Ship Packages Within D Days (medium) [Leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) [Solution](https://leetcode.cn/problems/capacity-to-ship-packages-within-d-days/solutions/744182/chi-xiao-dou-mei-ri-yi-ti-python-jian-mi-o01o)<br />
+The reasons we use binary search for question 12 & 13:
+    1) The array is ordered
+    2) Find the optimal value in a certain range.
+    3) Get the minimum, therefore left boundry is returned.
+15. *Koko Eating Bananas (medium) [Leetcode](https://leetcode.com/problems/koko-eating-bananas/)
+16. *Median of Two Sorted Arrays (hard) [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+17. Sliding Window Median (hard)
 
 
 ### 17. Pattern: Bitwise XOR
