@@ -204,9 +204,12 @@ The reasons we use binary search for question 12 & 13:
 ### 17. Pattern: Bitwise XOR
 
 1. Introduction
+   x ^ 0 = x​, x ^ 1 = ~x, x^x = 0
+   x & 0 = 0, x & 1 = x
+   x + ~x = 2^n-1 (n is the int number of x)
 2. Single Number (easy)
 3. Two Single Numbers (medium)
-4. Complement of Base 10 Number (medium)
+4. Complement of Base 10 Number (medium) [How to construct a mask](https://leetcode.cn/problems/complement-of-base-10-integer/solutions/1050059/shi-jin-zhi-zheng-shu-de-fan-ma-by-leetc-vofe)
 5. Problem Challenge 1: Flip and Invert an Image (hard)
 
 
