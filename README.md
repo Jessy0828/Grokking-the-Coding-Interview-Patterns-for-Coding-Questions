@@ -191,7 +191,7 @@
 10. Search in Rotated Array (medium) [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/) [Solution](https://leetcode.cn/problems/search-in-rotated-sorted-array/solutions/220083/sou-suo-xuan-zhuan-pai-xu-shu-zu-by-leetcode-solut)
 11. *Search a 2D Matrix (medium) [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/)  
 12. *Minimum Number of Days to Make m Bouquets (medium) [Leetcode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) [Solution & Analysis](https://leetcode.cn/problems/minimum-number-of-days-to-make-m-bouquets/solutions/765539/chi-xiao-dou-python-wei-shi-yao-shi-er-f-24p7)
-13. *Capacity To Ship Packages Within D Days (medium) [Leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) [Solution](https://leetcode.cn/problems/capacity-to-ship-packages-within-d-days/solutions/744182/chi-xiao-dou-mei-ri-yi-ti-python-jian-mi-o01o)<br />
+13. *Capacity To Ship Packages Within D Days (medium) [Leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) [Solution](https://leetcode.cn/problems/capacity-to-ship-packages-within-d-days/solutions/744182/chi-xiao-dou-mei-ri-yi-ti-python-jian-mi-o01o)<br>
 The reasons we use binary search for question 12 & 13:
     1) The array is ordered
     2) Find the optimal value in a certain range.
@@ -203,10 +203,10 @@ The reasons we use binary search for question 12 & 13:
 
 ### 17. Pattern: Bitwise XOR
 
-1. Introduction
-   x ^ 0 = x​, x ^ 1 = ~x, x^x = 0
-   x & 0 = 0, x & 1 = x
-   x + ~x = 2^n-1 (n is the int number of x)
+1. Introduction <br>
+   x ^ 0 = x​, x ^ 1 = ~x, x^x = 0 <br>
+   x & 0 = 0, x & 1 = x <br>
+   x + ~x = 2^n-1 (n is the int number of x) <br>
 2. Single Number (easy)
 3. Two Single Numbers (medium)
 4. Complement of Base 10 Number (medium) [How to construct a mask](https://leetcode.cn/problems/complement-of-base-10-integer/solutions/1050059/shi-jin-zhi-zheng-shu-de-fan-ma-by-leetc-vofe)
@@ -215,23 +215,20 @@ The reasons we use binary search for question 12 & 13:
 
 ### 18. Pattern: Top 'K' Elements
 
-1. [Introduction](13.-pattern-top-k-elements/01.Introduction.md)
-2. Top 'K' Numbers (easy) [Solution](13.-pattern-top-k-elements/02.top-k-numbers.md)
-3. Kth Smallest Number (easy)
-4. 'K' Closest Points to the Origin (easy) [Leetcode](https://leetcode.com/problems/k-closest-points-to-origin/)
-5. Connect Ropes (easy)
-6. Top 'K' Frequent Numbers (medium)
-7. Frequency Sort (medium)
-8. Kth Largest Number in a Stream (medium) [Leetcode](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
-9. 'K' Closest Numbers (medium)
-10. Maximum Distinct Elements (medium)
-11. Sum of Elements (medium)
-12. Rearrange String (hard) <br>
-13. Problem Challenge 1: Rearrange String K Distance Apart (hard)
-14. Problem Challenge 2: Scheduling Tasks (hard)
-15. Problem Challenge 3: Frequency Stack (hard)
-
-16. *[*Heap Implementation*](13.-pattern-top-k-elements/13.HeapImplementation.md)
+1. [Introduction - Quick Sort & Heap Sort](https://leetcode.cn/problems/kth-largest-element-in-an-array/solutions/1507044/by-flix-amc8/)
+2. Kth Largest Element In An Array: Leetcode 215 - [Quick Select](https://leetcode.cn/problems/kth-largest-element-in-an-array/solutions/2361969/215-shu-zu-zhong-de-di-k-ge-zui-da-yuan-d786p)
+3. K Smallest Number: [LCR 159](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/description/)
+4. K Closest Points to the Origin [Leetcode](https://leetcode.com/problems/k-closest-points-to-origin/)
+5. Top K Frequent Numbers
+6. Kth Largest Number in a Stream  [Leetcode](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+7. K Closest Numbers: Leetcode 658
+8. Minimum Cost To Connect All Points: [Prim's Algothrim](https://www.youtube.com/watch?v=f7JOBJIC-NA)
+9. Maximum Sum of Distinct Subarrays With Length K: Leetcode 2461
+10. Rearrange String: Leetcode 767
+11. Rearrange String K Distance Apart: Leetcode 358
+12. Scheduling Tasks: Leetcode 621
+13. Frequency Stack: Leetcode 895
+14. *[*Heap Implementation*](13.-pattern-top-k-elements/13.HeapImplementation.md)
 
 
 ### 19. Pattern: K-way merge
