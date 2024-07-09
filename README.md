@@ -226,7 +226,7 @@ The reasons we use binary search for question 12 & 13:
 9. Maximum Sum of Distinct Subarrays With Length K: Leetcode 2461
 10. Rearrange String: Leetcode 767
 11. Rearrange String K Distance Apart: Leetcode 358
-12. Scheduling Tasks: Leetcode 621
+12. Scheduling Tasks: Leetcode 621 [Solution - maxHeap](https://www.youtube.com/watch?v=s8p8ukTyA2I)
 13. Frequency Stack: Leetcode 895
 14. *[*Heap Implementation*](13.-pattern-top-k-elements/13.HeapImplementation.md)
 
@@ -250,6 +250,7 @@ The reasons we use binary search for question 12 & 13:
 5. Remove Duplicate Letters (medium)
 6. Largest Palindromic Number (Medium)
 7. Removing Minimum and Maximum From Array (medium)
+8. Rearrange String: Leetcode 767
 
 
 ### 21. Pattern : 0/1 Knapsack (Dynamic Programming)
