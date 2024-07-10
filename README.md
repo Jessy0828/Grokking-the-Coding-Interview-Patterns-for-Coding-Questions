@@ -234,11 +234,10 @@ The reasons we use binary search for question 12 & 13:
 ### 19. Pattern: K-way merge
 
 1. Introduction
-2. Merge K Sorted Lists (medium)
-3. Kth Smallest Number in M Sorted Lists (Medium)
-4. Kth Smallest Number in a Sorted Matrix (Hard) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/x1NJVYKNvqz)
-5. Smallest Number Range (Hard)
-6. Problem Challenge 1: K Pairs with Largest Sums (hard)
+2. Merge Two Sorted Lists
+3. Merge K Sorted Lists 
+4. Kth Smallest Number in a Sorted Matrix: Leetcode 378
+5. K Pairs with Largest Sums 
 
 
 ### 20. Pattern: Greedy Algorithms
