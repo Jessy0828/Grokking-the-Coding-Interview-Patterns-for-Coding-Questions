@@ -244,10 +244,10 @@ The reasons we use binary search for question 12 & 13:
 
 1. Introduction to Greedy Algorithm
 2. Valid Palindrome II (easy)
-3. Maximum Length of Pair Chain (medium)
-4. Minimum Add to Make Parentheses Valid (medium)
-5. Remove Duplicate Letters (medium)
-6. Largest Palindromic Number (Medium)
+3. Non-overlapping intervals: Leetcode 435
+4. Maximum Length of Pair Chain (medium)
+5. Minimum Add to Make Parentheses Valid (medium)
+6. Remove Duplicate Letters (medium)
 7. Removing Minimum and Maximum From Array (medium)
 8. Rearrange String: Leetcode 767
 
