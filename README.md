@@ -248,19 +248,19 @@ The reasons we use binary search for question 12 & 13:
 4. Maximum Length of Pair Chain (medium)
 5. Minimum Add to Make Parentheses Valid (medium)
 6. Remove Duplicate Letters (medium)
-7. Removing Minimum and Maximum From Array (medium)
-8. Rearrange String: Leetcode 767
+7. Rearrange String: Leetcode 767
 
 
 ### 21. Pattern : 0/1 Knapsack (Dynamic Programming)
 
-1. Introduction
-2. 0/1 Knapsack (medium) [Geeksforgeeks](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
-3. Equal Subset Sum Partition (medium) [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/)
-4. Subset Sum (medium) [Geeksforgeeks](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
-5. Minimum Subset Sum Difference (hard) [Geeksforgeeks](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
-6. Problem Challenge 1: Count of Subset Sum (hard)
-7. Problem Challenge 2: Target Sum (hard)
+1. [Introduction](https://www.youtube.com/watch?v=nLmhmB6NzcM)  [Summary of knapsack patterns](https://leetcode.cn/problems/coin-change/solutions/778891/yi-pian-wen-zhang-chi-tou-bei-bao-wen-ti-sq9n/) <br> [Top dynamic programming patterns](https://www.youtube.com/watch?v=mBNrRy2_hVs)
+2. Coin Change: [Neetcode explaination](https://www.youtube.com/watch?v=H9bfqozjoqs)
+3. Equal Subset Sum Partition [Leetcode 416](https://leetcode.com/problems/partition-equal-subset-sum/)
+4. Perfect Squares: Leetcode 279
+5. Combination Sum IV: Leetcode 377
+6. Coin Change II: Leetcode 518
+7. Number Of Dice Rolls With Target Sum: Leetcode 1155
+8. Target Sum: Leetcode 494
 
 
 ### 22. Pattern: Backtracking
