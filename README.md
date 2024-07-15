@@ -253,14 +253,17 @@ The reasons we use binary search for question 12 & 13:
 
 ### 21. Pattern : 0/1 Knapsack (Dynamic Programming)
 
-1. [Introduction](https://www.youtube.com/watch?v=nLmhmB6NzcM)  [Summary of knapsack patterns](https://leetcode.cn/problems/coin-change/solutions/778891/yi-pian-wen-zhang-chi-tou-bei-bao-wen-ti-sq9n/) <br> [Top dynamic programming patterns](https://www.youtube.com/watch?v=mBNrRy2_hVs)
+1. [Introduction](https://www.youtube.com/watch?v=nLmhmB6NzcM) <br>
+   [The sequence of inner and outer loops - why it matters](https://leetcode.cn/problems/coin-change-ii/solutions/143948/ling-qian-dui-huan-iihe-pa-lou-ti-wen-ti-dao-di-yo) <br>
+   [Top dynamic programming patterns](https://www.youtube.com/watch?v=mBNrRy2_hVs)
 2. Coin Change: [Neetcode explaination](https://www.youtube.com/watch?v=H9bfqozjoqs)
-3. Equal Subset Sum Partition [Leetcode 416](https://leetcode.com/problems/partition-equal-subset-sum/)
-4. Perfect Squares: Leetcode 279
-5. Combination Sum IV: Leetcode 377
-6. Coin Change II: Leetcode 518
-7. Number Of Dice Rolls With Target Sum: Leetcode 1155
-8. Target Sum: Leetcode 494
+3. Coin Change II: Leetcode 518
+4. Climbing Stairs: Leetcode 70
+5. Equal Subset Sum Partition [Leetcode 416](https://leetcode.com/problems/partition-equal-subset-sum/)
+6. Perfect Squares: Leetcode 279
+7. Combination Sum IV: Leetcode 377
+8. Number Of Dice Rolls With Target Sum: Leetcode 1155
+9. Target Sum: Leetcode 494
 
 
 ### 22. Pattern: Backtracking
