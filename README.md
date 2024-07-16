@@ -262,7 +262,7 @@ The reasons we use binary search for question 12 & 13:
 5. Equal Subset Sum Partition [Leetcode 416](https://leetcode.com/problems/partition-equal-subset-sum/)
 6. Perfect Squares: Leetcode 279
 7. Combination Sum IV: Leetcode 377
-8. Number Of Dice Rolls With Target Sum: Leetcode 1155
+8. Number Of Dice Rolls With Target Sum: Leetcode 1155 - [Difference between memoization and dynamic programming & Top down/Bottom up approaches](https://www.youtube.com/watch?v=hfUxjdjVQN4)
 9. Target Sum: Leetcode 494
 
 
