@@ -207,6 +207,7 @@ The reasons we use binary search for question 12 & 13:
    x ^ 0 = x​, x ^ 1 = ~x, x^x = 0 <br>
    x & 0 = 0, x & 1 = x <br>
    x + ~x = 2^n-1 (n is the int number of x) <br>
+   For decimal number x, (x >> k) & 1 can get the Kth binary number, starting from 0th. Refer to Leetcode 1318 <br>
 2. Single Number (easy)
 3. Two Single Numbers (medium)
 4. Complement of Base 10 Number (medium) [How to construct a mask](https://leetcode.cn/problems/complement-of-base-10-integer/solutions/1050059/shi-jin-zhi-zheng-shu-de-fan-ma-by-leetc-vofe)
